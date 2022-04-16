@@ -1,0 +1,10 @@
+Pages/BasePage.class
+Pages/ProductDetailPage.class
+Pages/SearchBox.class
+Tests/TestAddProductCarpet.class
+Tests/TestResultLogger.class
+Pages/HomePage.class
+Pages/ProductsPage.class
+Tests/Log.class
+Tests/BaseTest.class
+Pages/CartPage.class

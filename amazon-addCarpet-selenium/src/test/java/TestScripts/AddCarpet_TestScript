@@ -1,0 +1,8 @@
+
+  // Test Steps                                            // Test Assertions
+
+ 1- Go to Amazon Home Page                             1- Are we on Home Page ?
+ 2- Search for a Product in Search Box                 2- Are we on Product Page ?
+ 3- Click a Product                                    3- Are we on Product Detail Page ?
+ 4- Add Product a Cart                                 4- Check Product count on Cart Image on Home Page
+ 5- Go to Cart Page                                    5- Check if the Product was Added to Cart Successfully
